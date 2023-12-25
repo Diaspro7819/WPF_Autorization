@@ -1,0 +1,15 @@
+C:\Users\sansm\source\repos\pr3\pr5\bin\Debug\pr5.exe.config
+C:\Users\sansm\source\repos\pr3\pr5\bin\Debug\pr5.exe
+C:\Users\sansm\source\repos\pr3\pr5\bin\Debug\pr5.pdb
+C:\Users\sansm\source\repos\pr3\pr5\obj\Debug\pr5.csproj.AssemblyReference.cache
+C:\Users\sansm\source\repos\pr3\pr5\obj\Debug\pr5.csproj.CoreCompileInputs.cache
+C:\Users\sansm\source\repos\pr3\pr5\obj\Debug\pr5.exe
+C:\Users\sansm\source\repos\pr3\pr5\obj\Debug\pr5.pdb
+C:\Users\sansm\source\repos\pr3\pr5\bin\Debug\EntityFramework.dll
+C:\Users\sansm\source\repos\pr3\pr5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sansm\source\repos\pr3\pr5\bin\Debug\HashPassword.dll
+C:\Users\sansm\source\repos\pr3\pr5\bin\Debug\HashPassword.pdb
+C:\Users\sansm\source\repos\pr3\pr5\bin\Debug\EntityFramework.xml
+C:\Users\sansm\source\repos\pr3\pr5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sansm\source\repos\pr3\pr5\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\sansm\source\repos\pr3\pr5\obj\Debug\pr5.csproj.CopyComplete

@@ -1,0 +1,91 @@
+C:\Users\sansm\OneDrive\Рабочий стол\файлы\катаев\Програмные модули\pr3\pr3\obj\Debug\pr3.csproj.AssemblyReference.cache
+C:\Users\sansm\OneDrive\Рабочий стол\файлы\катаев\Програмные модули\pr3\pr3\obj\Debug\App.g.cs
+C:\Users\sansm\OneDrive\Рабочий стол\файлы\катаев\Програмные модули\pr3\pr3\obj\Debug\pr3_MarkupCompile.cache
+C:\Users\sansm\OneDrive\Рабочий стол\файлы\катаев\Програмные модули\pr3\pr3\obj\Debug\MainWindow.g.cs
+C:\Users\sansm\OneDrive\Рабочий стол\файлы\катаев\Програмные модули\pr3\pr3\obj\Debug\pr3_MarkupCompile.lref
+C:\Users\sansm\OneDrive\Рабочий стол\файлы\катаев\Програмные модули\pr3\pr3\obj\Debug\Pages\Autho.g.cs
+C:\Users\sansm\OneDrive\Рабочий стол\файлы\катаев\Програмные модули\pr3\pr3\obj\Debug\Pages\Client.g.cs
+C:\Users\sansm\OneDrive\Рабочий стол\файлы\катаев\Програмные модули\pr3\pr3\obj\Debug\App.baml
+C:\Users\sansm\OneDrive\Рабочий стол\файлы\катаев\Програмные модули\pr3\pr3\obj\Debug\MainWindow.baml
+C:\Users\sansm\OneDrive\Рабочий стол\файлы\катаев\Програмные модули\pr3\pr3\obj\Debug\Pages\Autho.baml
+C:\Users\sansm\OneDrive\Рабочий стол\файлы\катаев\Програмные модули\pr3\pr3\obj\Debug\Pages\Client.baml
+C:\Users\sansm\OneDrive\Рабочий стол\файлы\катаев\Програмные модули\pr3\pr3\obj\Debug\pr3.g.resources
+C:\Users\sansm\OneDrive\Рабочий стол\файлы\катаев\Програмные модули\pr3\pr3\obj\Debug\pr3.csproj.GenerateResource.cache
+C:\Users\sansm\OneDrive\Рабочий стол\файлы\катаев\Програмные модули\pr3\pr3\obj\Debug\pr3.pdb
+C:\Users\sansm\OneDrive\Рабочий стол\файлы\катаев\Програмные модули\pr3\pr3\bin\Debug\pr3.exe.config
+C:\Users\sansm\OneDrive\Рабочий стол\файлы\катаев\Програмные модули\pr3\pr3\bin\Debug\pr3.exe
+C:\Users\sansm\OneDrive\Рабочий стол\файлы\катаев\Програмные модули\pr3\pr3\bin\Debug\pr3.pdb
+C:\Users\sansm\OneDrive\Рабочий стол\файлы\катаев\Програмные модули\pr3\pr3\obj\Debug\pr3.Properties.Resources.resources
+C:\Users\sansm\OneDrive\Рабочий стол\файлы\катаев\Програмные модули\pr3\pr3\obj\Debug\pr3.csproj.CoreCompileInputs.cache
+C:\Users\sansm\OneDrive\Рабочий стол\файлы\катаев\Програмные модули\pr3\pr3\obj\Debug\pr3.exe
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\pr3.csproj.AssemblyReference.cache
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\MainWindow.g.cs
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\Pages\Autho.g.cs
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\Pages\Client.g.cs
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\App.g.cs
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\pr3_MarkupCompile.cache
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\pr3_MarkupCompile.lref
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\App.baml
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\MainWindow.baml
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\Pages\Autho.baml
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\Pages\Client.baml
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\pr3.g.resources
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\pr3.pdb
+C:\Users\sansm\source\repos\pr3\pr3\bin\Debug\pr3.exe.config
+C:\Users\sansm\source\repos\pr3\pr3\bin\Debug\pr3.exe
+C:\Users\sansm\source\repos\pr3\pr3\bin\Debug\pr3.pdb
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\pr3.Properties.Resources.resources
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\pr3.csproj.GenerateResource.cache
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\pr3.csproj.CoreCompileInputs.cache
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\pr3.exe
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\pr3_Content.g.cs
+C:\Users\sansm\source\repos\pr3\pr3\bin\Debug\EntityFramework.dll
+C:\Users\sansm\source\repos\pr3\pr3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sansm\source\repos\pr3\pr3\bin\Debug\HashPassword.dll
+C:\Users\sansm\source\repos\pr3\pr3\bin\Debug\HashPassword.pdb
+C:\Users\sansm\source\repos\pr3\pr3\bin\Debug\EntityFramework.xml
+C:\Users\sansm\source\repos\pr3\pr3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sansm\source\repos\pr3\pr3\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\pr3.csproj.CopyComplete
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\Pages\Admin.g.cs
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\Pages\Operator.g.cs
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\Pages\Admin.baml
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\Pages\Operator.baml
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\Pages\Trader.g.cs
+C:\Users\sansm\source\repos\pr3\pr3\obj\Debug\Pages\Trader.baml
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\bin\Debug\pr3.exe.config
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\bin\Debug\pr3.exe
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\bin\Debug\pr3.pdb
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\bin\Debug\EntityFramework.dll
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\bin\Debug\HashPassword.dll
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\bin\Debug\HashPassword.pdb
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\bin\Debug\EntityFramework.xml
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\pr3.csproj.AssemblyReference.cache
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\pr3.csproj.SuggestedBindingRedirects.cache
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\MainWindow.g.cs
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\Pages\Admin.g.cs
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\Pages\Autho.g.cs
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\Pages\Trader.g.cs
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\Pages\Client.g.cs
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\Pages\Operator.g.cs
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\App.g.cs
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\pr3_Content.g.cs
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\pr3_MarkupCompile.cache
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\pr3_MarkupCompile.lref
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\App.baml
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\MainWindow.baml
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\Pages\Admin.baml
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\Pages\Autho.baml
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\Pages\Trader.baml
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\Pages\Client.baml
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\Pages\Operator.baml
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\pr3.g.resources
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\pr3.Properties.Resources.resources
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\pr3.csproj.GenerateResource.cache
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\pr3.csproj.CoreCompileInputs.cache
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\pr3.csproj.CopyComplete
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\pr3.exe
+C:\Users\79069\Desktop\3 курс\РПМ\pr3\pr3\obj\Debug\pr3.pdb
